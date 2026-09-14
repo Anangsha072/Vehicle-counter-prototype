@@ -240,6 +240,13 @@ The processed video is saved as:
 ```text
 /content/vehicle_counting_output.mp4
 ```
+## Demo / Output
+
+Here is a short demonstration of the vehicle detection and directional
+counting system:
+
+![Vehicle Counting Demo](![Uploading image.png…]()
+)
 
 The notebook also displays the completed video and provides a Google Colab download option.
 
