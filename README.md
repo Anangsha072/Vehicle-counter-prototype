@@ -258,13 +258,6 @@ The output demonstrates real-time vehicle detection, tracking, and direction-bas
 - 🩷 **Yellow → Pink:** Vehicles moving away from the camera
 - Vehicles are counted after crossing the second counting line.
 - Separate counts are maintained for cars, motorcycles, buses, trucks, and bicycles.
-The output demonstrates real-time vehicle detection, tracking, and
-direction-based counting.
-
-- 🟡 **Pink → Yellow:** Vehicles moving towards the camera
-- 🩷 **Yellow → Pink:** Vehicles moving away from the camera
-- Vehicles are counted after crossing the second counting line.
-- Separate counts are maintained for cars, motorcycles, buses, trucks, and bicycles
 
 The notebook also displays the completed video and provides a Google Colab download option.
 
