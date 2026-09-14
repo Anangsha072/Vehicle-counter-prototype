@@ -246,7 +246,17 @@ Here is a short demonstration of the vehicle detection and directional
 counting system:
 
 <img width="1795" height="798" alt="image" src="https://github.com/user-attachments/assets/3e7a3909-d74c-4e13-9602-7416a15a89e6" >
+### Vehicle Counting Result
 
+![Vehicle Counting Demo](vehicle_counting_output_prototype (1) (1).gif)
+
+The output demonstrates real-time vehicle detection, tracking, and
+direction-based counting.
+
+- 🟡 **Pink → Yellow:** Vehicles moving towards the camera
+- 🩷 **Yellow → Pink:** Vehicles moving away from the camera
+- Vehicles are counted after crossing the second counting line.
+- Separate counts are maintained for cars, motorcycles, buses, trucks, and bicycles
 
 The notebook also displays the completed video and provides a Google Colab download option.
 
