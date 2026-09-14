@@ -245,7 +245,8 @@ The processed video is saved as:
 Here is a short demonstration of the vehicle detection and directional
 counting system:
 
-<img width="1802" height="827" alt="image" src="https://github.com/user-attachments/assets/0a5dd96c-276c-40db-8e49-875d83c04fc0" />
+![Vehicle Counting Demo](<img width="1795" height="798" alt="image" src="https://github.com/user-attachments/assets/3e7a3909-d74c-4e13-9602-7416a15a89e6" >)
+
 
 The notebook also displays the completed video and provides a Google Colab download option.
 
