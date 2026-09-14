@@ -341,12 +341,13 @@ vehicle-counting/
 │
 ├── vehicle_counting.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore
-│
-└── sample/
-    └── sample_frame.jpg
 ```
+## Demo / Output
+
+The following video shows the vehicle detection and directional counting result:
+
+![Vehicle Counting Demo]
+
 
 Large input/output videos and model files should generally not be committed directly to the repository.
 
