@@ -248,7 +248,6 @@ counting system:
 <img width="1795" height="798" alt="image" src="https://github.com/user-attachments/assets/3e7a3909-d74c-4e13-9602-7416a15a89e6" >
 ### Vehicle Counting Result
 
-### Vehicle Counting Result
 
 ![Vehicle Counting Demo](vehicle_counting_output_prototype%20%281%29%20%281%29.gif)
 
@@ -357,15 +356,9 @@ The vehicle is counted only after the second line is crossed.
 ```text
 vehicle-counting/
 │
-├── vehicle_counting.ipynb
+├── vehicle_counter_prototype.ipynb
 ├── README.md
 ```
-## Demo / Output
-
-The following video shows the vehicle detection and directional counting result:
-
-![Vehicle Counting Demo]
-
 
 Large input/output videos and model files should generally not be committed directly to the repository.
 
